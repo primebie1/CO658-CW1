@@ -1,0 +1,22 @@
+[
+  {
+    "directory": "C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/ZI \/JMC \/nologo \/W3 \/WX- \/diagnostics:column \/Od \/Oy- \/D CODE_ANALYSIS \/D WIN32 \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"Debug\\\\\" \/Gd \/TP   \"C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1\\BookMenu.cpp\"",
+    "file": "C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1\\BookMenu.cpp"
+  },
+  {
+    "directory": "C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/ZI \/JMC \/nologo \/W3 \/WX- \/diagnostics:column \/Od \/Oy- \/D CODE_ANALYSIS \/D WIN32 \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"Debug\\\\\" \/Gd \/TP   \"C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1\\CW1.cpp\"",
+    "file": "C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1\\CW1.cpp"
+  },
+  {
+    "directory": "C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/ZI \/JMC \/nologo \/W3 \/WX- \/diagnostics:column \/Od \/Oy- \/D CODE_ANALYSIS \/D WIN32 \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"Debug\\\\\" \/Gd \/TP   \"C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1\\HashTable.cpp\"",
+    "file": "C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1\\HashTable.cpp"
+  },
+  {
+    "directory": "C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/ZI \/JMC \/nologo \/W3 \/WX- \/diagnostics:column \/Od \/Oy- \/D CODE_ANALYSIS \/D WIN32 \/D _DEBUG \/D _CONSOLE \/D _UNICODE \/D UNICODE \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"Debug\\\\\" \/Gd \/TP   \"C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1\\Seat.cpp\"",
+    "file": "C:\\Users\\harry\\OneDrive\\Uni\\Year 3\\Semester 2\\DataStrucAlgo\\CW1\\CW1\\Seat.cpp"
+  }
+]
